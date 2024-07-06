@@ -8,7 +8,7 @@ Projeto para entrega do curso Docker da DIO
 
 **Docker:** Para criaçao do container
 
-**Docker compose:** Para criaçao de de multi container
+**Docker compose:** Para exercitar a criçao do arquivo.yml
 
 **Httpd:** Imagem usada para servi a aplicaçao teste
 
